@@ -1,0 +1,31 @@
+.container{
+    margin-top: 15%;
+}
+
+.pct{
+    height: 250px;
+    width: 250px;
+}
+
+.btn{
+    font-size: 0.2rem;
+    margin: 0.2rem;
+}
+
+#teamNameA{
+    color: red;
+}
+
+#teamScoreA{
+    font-size: 7rem;
+    color: red;
+}
+
+#teamNameB{
+    color: red;
+}
+
+#teamScoreB{
+    font-size: 7rem;
+    color: red;
+}
